@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm [Your Name] ✨
 
-<!--
-**minendraa/minendraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusiast**, a **Full-Stack Developer**, and an aspiring **Tech Innovator**. I love building impactful projects that blend AI, backend development, and real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **BSc (Hons) in Computing** @ The British College (Currently in my 4th semester)
+- 💪 Building **AI-powered and IoT solutions**
+- 📚 Currently learning **Backend & Machine Learning**
+- 🛠️ Developing backend projects with **Node.js & SQLAlchemy**
+
+---
+## 🌐 My Portfolio
+
+<a href="https://minendra.onrender.com/#home" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website"/>
+</a>
