@@ -1,15 +1,6 @@
 # Minendra Bhandari
 minendra-bhandari
 
-generalist
-
-👥 2.7k followers · 16 following
-
-🇳🇵 Nepal  
-✉️ minendra2062@gmail.com  
-📷 [minendra.ig](https://www.instagram.com/minendra_bhandari?igsh=MWtrbXp2OWZzN3Q0Mg==)
-💼 [in/minendra](https://linkedin.com/in/minendra)  
-
 ---
 
 Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusiast**, a **Full-Stack Developer**, and an aspiring **Tech Innovator**. I love building impactful projects that blend AI, backend development, and real-world solutions.
