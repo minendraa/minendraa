@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusias
 - 🎓 **BSc (Hons) in Computing** @ The British College (Currently in my 5th semester)
 - 💪 Building **AI-powered and IoT solutions**
 - 📚 Currently learning **Backend & Machine Learning**
-- 🛠️ Developing backend projects with **Node.js & SQLAlchemy**
 
 ---
 ## 🌐 My Portfolio
