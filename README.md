@@ -1,6 +1,4 @@
 # Minendra Bhandari
-minendra-bhandari
-
 ---
 
 Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusiast**, a **Full-Stack Developer**, and an aspiring **Tech Innovator**. I love building impactful projects that blend AI, backend development, and real-world solutions.
