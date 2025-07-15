@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusias
 🇳🇵 Nepal  
 ✉️ minendra2062@gmail.com  
 📷 [Instagram](https://www.instagram.com/minendra_bhandari?igsh=MWtrbXp2OWZzN3Q0Mg==)  
-💼 [LinkedIn](https://linkedin.com/in/minendra)
+💼 [LinkedIn](https://www.linkedin.com/in/minendra-bhandari-aba105375/)
 
 ---
 
