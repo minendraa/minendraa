@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate **AI & Machine Learning Enthusias
 
 ## 🌐 My Portfolio
 
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minendra.onrender.com)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://minendra.onrender.com](https://bhandariminendra.com.np/))
 
 
 ---
